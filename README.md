@@ -2,6 +2,8 @@
 
 Subscribe to pulseaudio DBUS API, and display a libnotify notification when volume changes.
 
+![demo](demo.gif)
+
 ## Install
 
 ArchLinux: volnoti-dbus (AUR)
